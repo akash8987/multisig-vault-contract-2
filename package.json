@@ -1,0 +1,14 @@
+{
+  "name": "multisig-vault-contract",
+  "version": "1.0.0",
+  "description": "Professional Multi-Signature Wallet Smart Contract",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  }
+}
